@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Менеджер задач</string>
+
+
+    <string name="tasks_list_title">Список зарегистрированных задач:</string>
+    <string name="delete_task_button">Удалить выбранную задачу</string>
+    <string name="add_task_button">Добавить новую задачу</string>
+    <string name="settings_button">Настройки</string>
+    <string name="exit_button">Выход</string>
+
+    <string name="task_title_label">Название задачи:</string>
+    <string name="task_title_hint">Введите в данное поле название для новой задачи…</string>
+    <string name="task_description_label">Описание задачи:</string>
+    <string name="task_description_hint">Введите в данное поле описание для новой задачи…</string>
+    <string name="task_due_date_label">Дата окончания задачи:</string>
+    <string name="task_priority_label">Приоритет задачи:</string>
+    <string name="save_button">Сохранить</string>
+    <string name="home_button">Домой</string>
+
+    <string name="language_label">Язык приложения:</string>
+    <string name="reset_database_button">Сброс базы данных</string>
+
+    <string-array name="priority_levels">
+        <item>Высокий (1)</item>
+        <item>Средний (2)</item>
+        <item>Низкий (3)</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+
+    <string name="task_saved_successfully">Задача успешно сохранена</string>
+    <string name="task_deleted_successfully">Задача удалена</string>
+    <string name="error_deleting_task">Ошибка при удалении задачи</string>
+    <string name="select_task_to_delete">Выберите задачу для удаления</string>
+    <string name="enter_task_title">Введите название задачи</string>
+    <string name="database_reset">База данных очищена</string>
+</resources>
